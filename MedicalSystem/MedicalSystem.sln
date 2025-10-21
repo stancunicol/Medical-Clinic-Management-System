@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedicalSystem.API", "MedicalSystem.API\MedicalSystem.API.csproj", "{5C0E4AF9-278B-4117-8E5E-54729083140B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedicalSystem.Domain", "MedicalSystem.Domain\MedicalSystem.Domain.csproj", "{42240DF6-F47F-42DF-ADAC-D096D017BDC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedicalSystem.Infrastructure", "MedicalSystem.Infrastructure\MedicalSystem.Infrastructure.csproj", "{6DD0E7D3-128A-4D84-9C04-B053AA69D14F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C0E4AF9-278B-4117-8E5E-54729083140B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C0E4AF9-278B-4117-8E5E-54729083140B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C0E4AF9-278B-4117-8E5E-54729083140B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C0E4AF9-278B-4117-8E5E-54729083140B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42240DF6-F47F-42DF-ADAC-D096D017BDC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42240DF6-F47F-42DF-ADAC-D096D017BDC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42240DF6-F47F-42DF-ADAC-D096D017BDC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42240DF6-F47F-42DF-ADAC-D096D017BDC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DD0E7D3-128A-4D84-9C04-B053AA69D14F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DD0E7D3-128A-4D84-9C04-B053AA69D14F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DD0E7D3-128A-4D84-9C04-B053AA69D14F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DD0E7D3-128A-4D84-9C04-B053AA69D14F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,321 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Anul III\\Semestrul I\\Dezvoltarea Aplica\u021Biilor Web\\Medical-Clinic-Management-System\\MedicalSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0E4AF9-278B-4117-8E5E-54729083140B}|MedicalSystem.API\\MedicalSystem.API.csproj|e:\\anul iii\\semestrul i\\dezvoltarea aplica\u021Biilor web\\medical-clinic-management-system\\medicalsystem\\medicalsystem.api\\medicalsystem.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5C0E4AF9-278B-4117-8E5E-54729083140B}|MedicalSystem.API\\MedicalSystem.API.csproj|solutionrelative:medicalsystem.api\\medicalsystem.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E53B2C21-0199-404E-B5DF-D74A714A76BB}|..\\MedicalSystem.Infrastructure\\MedicalSystem.Infrastructure.csproj|e:\\anul iii\\semestrul i\\dezvoltarea aplica\u021Biilor web\\medical-clinic-management-system\\medicalsystem.infrastructure\\medicalsystem.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42240DF6-F47F-42DF-ADAC-D096D017BDC3}|MedicalSystem.Domain\\MedicalSystem.Domain.csproj|e:\\anul iii\\semestrul i\\dezvoltarea aplica\u021Biilor web\\medical-clinic-management-system\\medicalsystem\\medicalsystem.domain\\entities\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42240DF6-F47F-42DF-ADAC-D096D017BDC3}|MedicalSystem.Domain\\MedicalSystem.Domain.csproj|solutionrelative:medicalsystem.domain\\entities\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E53B2C21-0199-404E-B5DF-D74A714A76BB}|..\\MedicalSystem.Infrastructure\\MedicalSystem.Infrastructure.csproj|e:\\anul iii\\semestrul i\\dezvoltarea aplica\u021Biilor web\\medical-clinic-management-system\\medicalsystem.infrastructure\\context\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E53B2C21-0199-404E-B5DF-D74A714A76BB}|..\\MedicalSystem.Infrastructure\\MedicalSystem.Infrastructure.csproj|e:\\anul iii\\semestrul i\\dezvoltarea aplica\u021Biilor web\\medical-clinic-management-system\\medicalsystem.infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42240DF6-F47F-42DF-ADAC-D096D017BDC3}|MedicalSystem.Domain\\MedicalSystem.Domain.csproj|e:\\anul iii\\semestrul i\\dezvoltarea aplica\u021Biilor web\\medical-clinic-management-system\\medicalsystem\\medicalsystem.domain\\medicalsystem.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{42240DF6-F47F-42DF-ADAC-D096D017BDC3}|MedicalSystem.Domain\\MedicalSystem.Domain.csproj|solutionrelative:medicalsystem.domain\\medicalsystem.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0E4AF9-278B-4117-8E5E-54729083140B}|MedicalSystem.API\\MedicalSystem.API.csproj|e:\\anul iii\\semestrul i\\dezvoltarea aplica\u021Biilor web\\medical-clinic-management-system\\medicalsystem\\medicalsystem.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5C0E4AF9-278B-4117-8E5E-54729083140B}|MedicalSystem.API\\MedicalSystem.API.csproj|solutionrelative:medicalsystem.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0E4AF9-278B-4117-8E5E-54729083140B}|MedicalSystem.API\\MedicalSystem.API.csproj|e:\\anul iii\\semestrul i\\dezvoltarea aplica\u021Biilor web\\medical-clinic-management-system\\medicalsystem\\medicalsystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5C0E4AF9-278B-4117-8E5E-54729083140B}|MedicalSystem.API\\MedicalSystem.API.csproj|solutionrelative:medicalsystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0E4AF9-278B-4117-8E5E-54729083140B}|MedicalSystem.API\\MedicalSystem.API.csproj|e:\\anul iii\\semestrul i\\dezvoltarea aplica\u021Biilor web\\medical-clinic-management-system\\medicalsystem\\medicalsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0E4AF9-278B-4117-8E5E-54729083140B}|MedicalSystem.API\\MedicalSystem.API.csproj|solutionrelative:medicalsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42240DF6-F47F-42DF-ADAC-D096D017BDC3}|MedicalSystem.Domain\\MedicalSystem.Domain.csproj|e:\\anul iii\\semestrul i\\dezvoltarea aplica\u021Biilor web\\medical-clinic-management-system\\medicalsystem\\medicalsystem.domain\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42240DF6-F47F-42DF-ADAC-D096D017BDC3}|MedicalSystem.Domain\\MedicalSystem.Domain.csproj|solutionrelative:medicalsystem.domain\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42240DF6-F47F-42DF-ADAC-D096D017BDC3}|MedicalSystem.Domain\\MedicalSystem.Domain.csproj|e:\\anul iii\\semestrul i\\dezvoltarea aplica\u021Biilor web\\medical-clinic-management-system\\medicalsystem\\medicalsystem.domain\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42240DF6-F47F-42DF-ADAC-D096D017BDC3}|MedicalSystem.Domain\\MedicalSystem.Domain.csproj|solutionrelative:medicalsystem.domain\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42240DF6-F47F-42DF-ADAC-D096D017BDC3}|MedicalSystem.Domain\\MedicalSystem.Domain.csproj|e:\\anul iii\\semestrul i\\dezvoltarea aplica\u021Biilor web\\medical-clinic-management-system\\medicalsystem\\medicalsystem.domain\\entities\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42240DF6-F47F-42DF-ADAC-D096D017BDC3}|MedicalSystem.Domain\\MedicalSystem.Domain.csproj|solutionrelative:medicalsystem.domain\\entities\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42240DF6-F47F-42DF-ADAC-D096D017BDC3}|MedicalSystem.Domain\\MedicalSystem.Domain.csproj|e:\\anul iii\\semestrul i\\dezvoltarea aplica\u021Biilor web\\medical-clinic-management-system\\medicalsystem\\medicalsystem.domain\\entities\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42240DF6-F47F-42DF-ADAC-D096D017BDC3}|MedicalSystem.Domain\\MedicalSystem.Domain.csproj|solutionrelative:medicalsystem.domain\\entities\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42240DF6-F47F-42DF-ADAC-D096D017BDC3}|MedicalSystem.Domain\\MedicalSystem.Domain.csproj|e:\\anul iii\\semestrul i\\dezvoltarea aplica\u021Biilor web\\medical-clinic-management-system\\medicalsystem\\medicalsystem.domain\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42240DF6-F47F-42DF-ADAC-D096D017BDC3}|MedicalSystem.Domain\\MedicalSystem.Domain.csproj|solutionrelative:medicalsystem.domain\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42240DF6-F47F-42DF-ADAC-D096D017BDC3}|MedicalSystem.Domain\\MedicalSystem.Domain.csproj|e:\\anul iii\\semestrul i\\dezvoltarea aplica\u021Biilor web\\medical-clinic-management-system\\medicalsystem\\medicalsystem.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42240DF6-F47F-42DF-ADAC-D096D017BDC3}|MedicalSystem.Domain\\MedicalSystem.Domain.csproj|solutionrelative:medicalsystem.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42240DF6-F47F-42DF-ADAC-D096D017BDC3}|MedicalSystem.Domain\\MedicalSystem.Domain.csproj|e:\\anul iii\\semestrul i\\dezvoltarea aplica\u021Biilor web\\medical-clinic-management-system\\medicalsystem\\medicalsystem.domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42240DF6-F47F-42DF-ADAC-D096D017BDC3}|MedicalSystem.Domain\\MedicalSystem.Domain.csproj|solutionrelative:medicalsystem.domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MedicalSystem.API",
+              "DocumentMoniker": "E:\\Anul III\\Semestrul I\\Dezvoltarea Aplica\u021Biilor Web\\Medical-Clinic-Management-System\\MedicalSystem\\MedicalSystem.API\\MedicalSystem.API.csproj",
+              "RelativeDocumentMoniker": "MedicalSystem.API\\MedicalSystem.API.csproj",
+              "ToolTip": "E:\\Anul III\\Semestrul I\\Dezvoltarea Aplica\u021Biilor Web\\Medical-Clinic-Management-System\\MedicalSystem\\MedicalSystem.API\\MedicalSystem.API.csproj",
+              "RelativeToolTip": "MedicalSystem.API\\MedicalSystem.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-21T16:51:14.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MedicalSystem.Infrastructure.csproj",
+              "DocumentMoniker": "E:\\Anul III\\Semestrul I\\Dezvoltarea Aplica\u021Biilor Web\\Medical-Clinic-Management-System\\MedicalSystem.Infrastructure\\MedicalSystem.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "..\\MedicalSystem.Infrastructure\\MedicalSystem.Infrastructure.csproj",
+              "ToolTip": "E:\\Anul III\\Semestrul I\\Dezvoltarea Aplica\u021Biilor Web\\Medical-Clinic-Management-System\\MedicalSystem.Infrastructure\\MedicalSystem.Infrastructure.csproj",
+              "RelativeToolTip": "..\\MedicalSystem.Infrastructure\\MedicalSystem.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-21T16:25:36.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MedicalSystem.Domain.csproj",
+              "DocumentMoniker": "E:\\Anul III\\Semestrul I\\Dezvoltarea Aplica\u021Biilor Web\\Medical-Clinic-Management-System\\MedicalSystem\\MedicalSystem.Domain\\MedicalSystem.Domain.csproj",
+              "RelativeDocumentMoniker": "MedicalSystem.Domain\\MedicalSystem.Domain.csproj",
+              "ToolTip": "E:\\Anul III\\Semestrul I\\Dezvoltarea Aplica\u021Biilor Web\\Medical-Clinic-Management-System\\MedicalSystem\\MedicalSystem.Domain\\MedicalSystem.Domain.csproj",
+              "RelativeToolTip": "MedicalSystem.Domain\\MedicalSystem.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-21T16:20:00.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\Anul III\\Semestrul I\\Dezvoltarea Aplica\u021Biilor Web\\Medical-Clinic-Management-System\\MedicalSystem.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\MedicalSystem.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\Anul III\\Semestrul I\\Dezvoltarea Aplica\u021Biilor Web\\Medical-Clinic-Management-System\\MedicalSystem.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\MedicalSystem.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T16:25:56.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContextFactory.cs",
+              "DocumentMoniker": "E:\\Anul III\\Semestrul I\\Dezvoltarea Aplica\u021Biilor Web\\Medical-Clinic-Management-System\\MedicalSystem.Infrastructure\\Context\\ApplicationDbContextFactory.cs",
+              "RelativeDocumentMoniker": "..\\MedicalSystem.Infrastructure\\Context\\ApplicationDbContextFactory.cs",
+              "ToolTip": "E:\\Anul III\\Semestrul I\\Dezvoltarea Aplica\u021Biilor Web\\Medical-Clinic-Management-System\\MedicalSystem.Infrastructure\\Context\\ApplicationDbContextFactory.cs",
+              "RelativeToolTip": "..\\MedicalSystem.Infrastructure\\Context\\ApplicationDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T16:46:46.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "E:\\Anul III\\Semestrul I\\Dezvoltarea Aplica\u021Biilor Web\\Medical-Clinic-Management-System\\MedicalSystem\\MedicalSystem.Domain\\Entities\\Gender.cs",
+              "RelativeDocumentMoniker": "MedicalSystem.Domain\\Entities\\Gender.cs",
+              "ToolTip": "E:\\Anul III\\Semestrul I\\Dezvoltarea Aplica\u021Biilor Web\\Medical-Clinic-Management-System\\MedicalSystem\\MedicalSystem.Domain\\Entities\\Gender.cs",
+              "RelativeToolTip": "MedicalSystem.Domain\\Entities\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T16:21:07.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\Anul III\\Semestrul I\\Dezvoltarea Aplica\u021Biilor Web\\Medical-Clinic-Management-System\\MedicalSystem\\MedicalSystem.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MedicalSystem.API\\appsettings.Development.json",
+              "ToolTip": "E:\\Anul III\\Semestrul I\\Dezvoltarea Aplica\u021Biilor Web\\Medical-Clinic-Management-System\\MedicalSystem\\MedicalSystem.API\\appsettings.Development.json",
+              "RelativeToolTip": "MedicalSystem.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-21T16:57:01.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Anul III\\Semestrul I\\Dezvoltarea Aplica\u021Biilor Web\\Medical-Clinic-Management-System\\MedicalSystem\\MedicalSystem.API\\appsettings.json",
+              "RelativeDocumentMoniker": "MedicalSystem.API\\appsettings.json",
+              "ToolTip": "E:\\Anul III\\Semestrul I\\Dezvoltarea Aplica\u021Biilor Web\\Medical-Clinic-Management-System\\MedicalSystem\\MedicalSystem.API\\appsettings.json",
+              "RelativeToolTip": "MedicalSystem.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-21T16:47:21.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Anul III\\Semestrul I\\Dezvoltarea Aplica\u021Biilor Web\\Medical-Clinic-Management-System\\MedicalSystem\\MedicalSystem.API\\Program.cs",
+              "RelativeDocumentMoniker": "MedicalSystem.API\\Program.cs",
+              "ToolTip": "E:\\Anul III\\Semestrul I\\Dezvoltarea Aplica\u021Biilor Web\\Medical-Clinic-Management-System\\MedicalSystem\\MedicalSystem.API\\Program.cs",
+              "RelativeToolTip": "MedicalSystem.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T16:48:05.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Service.cs",
+              "DocumentMoniker": "E:\\Anul III\\Semestrul I\\Dezvoltarea Aplica\u021Biilor Web\\Medical-Clinic-Management-System\\MedicalSystem\\MedicalSystem.Domain\\Entities\\Service.cs",
+              "RelativeDocumentMoniker": "MedicalSystem.Domain\\Entities\\Service.cs",
+              "ToolTip": "E:\\Anul III\\Semestrul I\\Dezvoltarea Aplica\u021Biilor Web\\Medical-Clinic-Management-System\\MedicalSystem\\MedicalSystem.Domain\\Entities\\Service.cs",
+              "RelativeToolTip": "MedicalSystem.Domain\\Entities\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T16:23:54.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "E:\\Anul III\\Semestrul I\\Dezvoltarea Aplica\u021Biilor Web\\Medical-Clinic-Management-System\\MedicalSystem\\MedicalSystem.Domain\\Entities\\Patient.cs",
+              "RelativeDocumentMoniker": "MedicalSystem.Domain\\Entities\\Patient.cs",
+              "ToolTip": "E:\\Anul III\\Semestrul I\\Dezvoltarea Aplica\u021Biilor Web\\Medical-Clinic-Management-System\\MedicalSystem\\MedicalSystem.Domain\\Entities\\Patient.cs",
+              "RelativeToolTip": "MedicalSystem.Domain\\Entities\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T16:23:21.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "E:\\Anul III\\Semestrul I\\Dezvoltarea Aplica\u021Biilor Web\\Medical-Clinic-Management-System\\MedicalSystem\\MedicalSystem.Domain\\Entities\\Doctor.cs",
+              "RelativeDocumentMoniker": "MedicalSystem.Domain\\Entities\\Doctor.cs",
+              "ToolTip": "E:\\Anul III\\Semestrul I\\Dezvoltarea Aplica\u021Biilor Web\\Medical-Clinic-Management-System\\MedicalSystem\\MedicalSystem.Domain\\Entities\\Doctor.cs",
+              "RelativeToolTip": "MedicalSystem.Domain\\Entities\\Doctor.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvwsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T16:22:48.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Status.cs",
+              "DocumentMoniker": "E:\\Anul III\\Semestrul I\\Dezvoltarea Aplica\u021Biilor Web\\Medical-Clinic-Management-System\\MedicalSystem\\MedicalSystem.Domain\\Entities\\Status.cs",
+              "RelativeDocumentMoniker": "MedicalSystem.Domain\\Entities\\Status.cs",
+              "ToolTip": "E:\\Anul III\\Semestrul I\\Dezvoltarea Aplica\u021Biilor Web\\Medical-Clinic-Management-System\\MedicalSystem\\MedicalSystem.Domain\\Entities\\Status.cs",
+              "RelativeToolTip": "MedicalSystem.Domain\\Entities\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T16:24:20.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "E:\\Anul III\\Semestrul I\\Dezvoltarea Aplica\u021Biilor Web\\Medical-Clinic-Management-System\\MedicalSystem\\MedicalSystem.Domain\\Entities\\Appointment.cs",
+              "RelativeDocumentMoniker": "MedicalSystem.Domain\\Entities\\Appointment.cs",
+              "ToolTip": "E:\\Anul III\\Semestrul I\\Dezvoltarea Aplica\u021Biilor Web\\Medical-Clinic-Management-System\\MedicalSystem\\MedicalSystem.Domain\\Entities\\Appointment.cs",
+              "RelativeToolTip": "MedicalSystem.Domain\\Entities\\Appointment.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T16:24:51.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Anul III\\Semestrul I\\Dezvoltarea Aplica\u021Biilor Web\\Medical-Clinic-Management-System\\MedicalSystem\\MedicalSystem.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "MedicalSystem.Domain\\Entities\\User.cs",
+              "ToolTip": "E:\\Anul III\\Semestrul I\\Dezvoltarea Aplica\u021Biilor Web\\Medical-Clinic-Management-System\\MedicalSystem\\MedicalSystem.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "MedicalSystem.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwCEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T16:22:01.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Role.cs",
+              "DocumentMoniker": "E:\\Anul III\\Semestrul I\\Dezvoltarea Aplica\u021Biilor Web\\Medical-Clinic-Management-System\\MedicalSystem\\MedicalSystem.Domain\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "MedicalSystem.Domain\\Entities\\Role.cs",
+              "ToolTip": "E:\\Anul III\\Semestrul I\\Dezvoltarea Aplica\u021Biilor Web\\Medical-Clinic-Management-System\\MedicalSystem\\MedicalSystem.Domain\\Entities\\Role.cs",
+              "RelativeToolTip": "MedicalSystem.Domain\\Entities\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T16:20:36.143Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
