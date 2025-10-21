@@ -1,0 +1,79 @@
+# Build results
+bin/
+obj/
+out/
+[Bb]uild/
+[Ll]og/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# Visual Studio Code
+.vscode/
+.history/
+
+# ASP.NET specific
+wwwroot/lib/
+node_modules/
+bundle/
+dist/
+tmp/
+temp/
+.env
+.env.*
+
+# Entity Framework
+*.dbmdl
+*.mdf
+*.ldf
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+*.nuspec
+
+# Logs and crash reports
+*.log
+logs/
+*.pidb
+*.svclog
+*.pdb
+TestResult.xml
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
+
+# Configuration transforms
+appsettings.Development.json
+appsettings.Local.json
+appsettings.*.json
+!appsettings.json  # păstrează doar fișierul principal
+
+# Temporary files
+~$*
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+Thumbs.db
+
+# Publish outputs
+publish/
+*.Publish.xml
+
+# SQL Server localdb files
+*.mdf
+*.ldf
+
+# Git itself
+.gitignore
+.gitattributes
+
+MedicalSystem.Infrastructure/Migrations/
